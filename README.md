@@ -1,12 +1,12 @@
-# tran X
+# transX
 An AI powered MERN stack expense tracker that provides insights based on your spending habits. It uses OpenAI's GPT-3 to analyze your expenses and provide personalized recommendations.
 
 ### [Live Demo](http://ai.mernbook.com/ "MERN Simple Setup")
 
 #### What you need to run this code
-1. Node (20.*.*)
-2. NPM (6.14.4) or Yarn (1.22.4)
-3. MongoDB (4.2.0)
+- [nodejs](https://nodejs.org/)>=20.0.0
+- [npm](https://npm.com/)>=9.0.0
+- [mongoose](https://mongoose.com/)>=9.0.0
 
 
 ####  How to run this code
