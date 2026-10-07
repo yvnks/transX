@@ -1,9 +1,10 @@
-# MERN - Simple Setup Check
+# tran X
+An AI powered MERN stack expense tracker that provides insights based on your spending habits. It uses OpenAI's GPT-3 to analyze your expenses and provide personalized recommendations.
 
-### [Live Demo](http://simplesetup2.mernbook.com/ "MERN Simple Setup")
+### [Live Demo](http://ai.mernbook.com/ "MERN Simple Setup")
 
 #### What you need to run this code
-1. Node (13.12.0)
+1. Node (20.*.*)
 2. NPM (6.14.4) or Yarn (1.22.4)
 3. MongoDB (4.2.0)
 
